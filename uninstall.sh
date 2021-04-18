@@ -1,1 +1,1 @@
-rm /usr/local/bin/helo
+rm /usr/local/bin/heli

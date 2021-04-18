@@ -1,5 +1,9 @@
 # heli
 
+## Dependencies
+
+Rust cargo
+
 ## Installation
 
     git clone https://github.com/vladov3000/heli.git && cd heli
